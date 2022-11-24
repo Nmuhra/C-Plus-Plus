@@ -6,12 +6,12 @@ int main()
 {
   char grade = 'A';
   
-  string phrase = "Nabegh";
+  string phrase = "Hello";
   
   int number = 16;
 
   //double is used for specific numbers including many decimals
-  double GPA = 2.6;
+  double percent = 98.3;
 
   // True/False
   bool isRed = true;
